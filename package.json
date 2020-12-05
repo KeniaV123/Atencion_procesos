@@ -1,0 +1,21 @@
+{
+  "name": "Atencion_procesos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeniaV123/Atencion_procesos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeniaV123/Atencion_procesos/issues"
+  },
+  "homepage": "https://github.com/KeniaV123/Atencion_procesos#readme"
+}
